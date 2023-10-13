@@ -58,5 +58,10 @@ Special thanks to instructor Moses Gummadi for providing the guidance and expert
 
 Feel free to reach out if you have any questions or need further assistance. Happy forecasting!
 
+## Completion certificate
+
+![image](https://github.com/arora-amit37/demand_planning_forecasting/assets/50020662/08d1f2ed-32cb-4f9b-a46d-6f02f27e7581)
+
+
 ---
 End of Demand Forecasting R Project

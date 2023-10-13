@@ -6,6 +6,11 @@ Welcome to the Demand Forecasting project! This project was completed as part of
 
 ## Project Structure
 
+### Scenario
+
+![image](https://github.com/arora-amit37/demand_planning_forecasting/assets/50020662/e37c2d2e-d625-4743-8dd1-0910bc1ff669)
+
+
 This project is organized into various sections, each addressing a specific task in the demand forecasting process. Here's a brief overview of what each section covers:
 
 1. **Task 1 - Import Data, Create Time Series Objects**
